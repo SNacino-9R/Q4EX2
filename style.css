@@ -1,0 +1,25 @@
+body {
+  background-color:floralwhite ;
+}
+
+.container {
+background-color: #ffb6c2;
+color: white;
+padding: 20px;
+border-radius: 10px;
+}
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.btn {
+  color:#e89eb8;
+}
+h1 {
+  text-align: center;
+  color:#ffb6c2;
+}
